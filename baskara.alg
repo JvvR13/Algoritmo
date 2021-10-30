@@ -4,7 +4,10 @@ algoritmo "Baskara"
 // Data : 18/10/2021
 // Seção de Declarações 
 var
+
+   //Declaração de Variáveis
    a, b, c, d, x1, x2: real
+   
 inicio
 // Seção de Comandos
 
